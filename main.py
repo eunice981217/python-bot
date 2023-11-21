@@ -3,7 +3,7 @@ import json
 import telebot
 
 ##TOKEN DETAILS
-TOKEN = "TRON"
+TOKEN = "KREDIT"
 
 BOT_TOKEN = "6816227852:AAFgpP3Le6ySGj-2rweK8DESDxra9an0XxY"
 PAYMENT_CHANNEL = "@Mega888FreeKredits_bot" #add payment channel here including the '@' sign
