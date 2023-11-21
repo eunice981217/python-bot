@@ -5,10 +5,10 @@ import telebot
 ##TOKEN DETAILS
 TOKEN = "KREDIT"
 
-BOT_TOKEN = "6816227852:AAFgpP3Le6ySGj-2rweK8DESDxra9an0XxY"
-PAYMENT_CHANNEL = "@Mega888FreeKredits_bot" #add payment channel here including the '@' sign
+BOT_TOKEN = "6656867574:AAG_4pe8IA7aXXJBmqStZaZPhiT2I--DiGs"
+PAYMENT_CHANNEL = "@Tests111Bot" #add payment channel here including the '@' sign
 OWNER_ID = 6142051780 #write owner's user id here.. get it from @MissRose_Bot by /id
-CHANNELS = ["@Mega888FreeKredits_bot"] #add channels to be checked here in the format - ["Channel 1", "Channel 2"] 
+CHANNELS = ["@Tests111Bot"] #add channels to be checked here in the format - ["Channel 1", "Channel 2"] 
               #you can add as many channels here and also add the '@' sign before channel username
 Daily_bonus = 0 #Put daily bonus amount here!
 Mini_Withdraw = 2  #remove 0 and add the minimum withdraw u want to set
